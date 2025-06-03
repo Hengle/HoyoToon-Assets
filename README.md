@@ -1,11 +1,13 @@
 
 > [!CAUTION]
-> The repo has been archived and moved to a self hosted solution due to legal reasons. For a more up to date repo, assets and a better system join the [Discord](https://discord.gg/hoyotoon).
+> The repo has been archived and moved to a self hosted solution due to legal reasons. For a more up to date repo, assets and a better system use the new [HoyoToon Assets Website](https://assets.hoyotoon.com/s/assets).
+>
+> You can also join the [Discord](https://discord.gg/hoyotoon) to use our Discord Bot to download there aswell.
 
 
 <br>
 <p align="center">
-    <a href="https://github.com/Melioli/HoyoToon"><img src="https://github.com/user-attachments/assets/59985984-7abd-47d8-9955-3e00454ea1a2" alt="HoyoToon"/></a>
+    <a href="https://assets.hoyotoon.com/s/assets"><img src="https://github.com/user-attachments/assets/59985984-7abd-47d8-9955-3e00454ea1a2" alt="HoyoToon"/></a>
 </p><br>
 
 <p align="center">
@@ -67,5 +69,4 @@ All of this wouldn't be possible if it weren't for:
 
 - [Meliodas](https://github.com/Melioli)
 - [Manashiku](https://github.com/Manashiku)
-- [Yuki](https://mega.nz/folder/7npCRQBZ#_cjuVigipluBjV-CC7rX6A)
 - [Razmoth](https://github.com/Razmoth)
